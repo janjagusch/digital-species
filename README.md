@@ -12,7 +12,7 @@ The backbone of the program in the [OpenAI Gym](https://gym.openai.com/). Please
 
 The underlying algorithm is [Neuroevolution of Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf). We use the [Python implementation](http://neat-python.readthedocs.io/en/latest/) of this algorithm. The installation guidelines can be found [here](http://neat-python.readthedocs.io/en/latest/installation.html).
 
-Additional third party dependencies are [numpy](http://neat-python.readthedocs.io/en/latest/installation.html),[matplotlib](https://matplotlib.org/) and [tqdm](https://pypi.org/project/tqdm/). They can be installed as follows, using [Anaconda](https://anaconda.org/):
+Additional third party dependencies are [numpy](http://neat-python.readthedocs.io/en/latest/installation.html), [matplotlib](https://matplotlib.org/) and [tqdm](https://pypi.org/project/tqdm/). They can be installed as follows, using [Anaconda](https://anaconda.org/):
 
 ```
 conda install numpy
